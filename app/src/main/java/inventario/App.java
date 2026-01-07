@@ -14,10 +14,5 @@ public class App {
         producto1.mostrarProducto();
         producto2.mostrarProducto();
         producto3.mostrarProducto();
-
-        // String nombreProducto = producto2.getNombre();
-
-        // System.out.println("Nombre del producto 2: " + nombreProducto);
-        // System.out.println("Nombre del producto 3: " + producto3.getNombre());
     }
 }
